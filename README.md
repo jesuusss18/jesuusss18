@@ -5,6 +5,12 @@ My home city is Granada,Spain, and I will go back after graduating!
 I enjoy learning new technologies and building projects that challenge my skills.  
 Outside of coding, I love playing soccer and staying active.
 
+## Technical Skills 💻
+
+- Programming Languages: Python, SQL
+- Web Development: HTML, CSS, JavaScript
+- Databases: SQL, 
+- Tools: Git, GitHub, VS Code
 <!--
 **jesuusss18/jesuusss18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
