@@ -11,6 +11,15 @@ Outside of coding, I love playing soccer and staying active.
 - Web Development: HTML, CSS, JavaScript
 - Databases: SQL, 
 - Tools: Git, GitHub, VS Code
+
+## Learning Goals & Projects 🎯
+
+- Learning advanced Data Structures and Algorithms  
+- Exploring Data Analysis and Machine Learning  
+- Working on a personal project: a small web app to show my review 
+- Planning to contribute to open-source projects in the future
+- Planning to complete Google Courses
+
 <!--
 **jesuusss18/jesuusss18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
