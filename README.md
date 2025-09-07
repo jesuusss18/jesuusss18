@@ -26,3 +26,4 @@ Outside of coding, I love playing soccer ⚽ and staying active.
 - Phone: +34 648 98 12 75  
 
 > “Coding is my playground, and soccer keeps me on my toes!” ⚡
+
