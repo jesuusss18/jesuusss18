@@ -20,6 +20,11 @@ Outside of coding, I love playing soccer and staying active.
 - Planning to contribute to open-source projects in the future
 - Planning to complete Google Courses
 
+## Contact & Links 📫
+
+- GitHub Portfolio: https://github.com/jesuusss18
+- Email: jesuscalvomillan@bmc.edu
+- Phone: +34 648 98 12 75
 <!--
 **jesuusss18/jesuusss18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
