@@ -1,5 +1,5 @@
 ## Hi, I'm Jesus Calvo! 👋
-
+I'm a 20-year-old junior studying Computer Science in Blue Mountain, MS.  
 I'm a 20-year-old junior studying Computer Science in Blue Mountain, MS.  
 My home city is Granada, Spain, and I plan to return after graduating!  
 I enjoy learning new technologies and building projects that challenge my skills.  
