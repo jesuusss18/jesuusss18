@@ -25,7 +25,7 @@ Outside of coding, I love playing soccer ⚽ and staying active.
 A full-stack platform that allows users to explore and support charities.
 
 Tech: Django, HTML, CSS
-[View Project][(https://github.com/jesuusss18/charityproject.git)]
+[View Project](https://github.com/jesuusss18/charityproject.git)
 
 📖 Biblical Quotes App
 
