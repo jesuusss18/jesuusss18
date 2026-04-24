@@ -26,6 +26,7 @@ A full-stack platform that allows users to explore and support charities.
 
 Tech: Django, HTML, CSS
 [View Project][(https://github.com/jesuusss18/charityproject.git)]
+
 📖 Biblical Quotes App
 
 Displays inspirational Bible verses for reflection in a clean, simple interface.
